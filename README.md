@@ -6,4 +6,4 @@ Your go-to toolkit for bioinformatics visualizations of RNA expression data. Thi
 
 Clone, customize, and enhance your bioinformatics analysis visuals!
 
-Take your TMM exxpression data and turn it into interpretive visuals that clealry show meaningful findings
+Take your rna expression data and turn it into interpretive visuals that clealry show meaningful findings
