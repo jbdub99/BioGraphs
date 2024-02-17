@@ -5,3 +5,5 @@ Your go-to toolkit for bioinformatics visualizations of RNA expression data. Thi
 3. Gene-Ontology (GO) term enrichment
 
 Clone, customize, and enhance your bioinformatics analysis visuals!
+
+Take your TMM exxpression data and turn it into interpretive visuals that clealry show meaningful findings
